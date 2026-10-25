@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ron 👋
 
-<!--
-**PlayAIwithRon/PlayAIwithRon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 跟 Ron 玩 AI · Play AI with Ron
 
-Here are some ideas to get you started:
+🤖 **AI explorer & builder** — formerly Web developer, now building with AI full-time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+每天带你玩转最新 AI：新鲜资讯 + 新工具实测 + 好用的新玩法
+*New AI? I try it first, hit the pitfalls, then recommend the good stuff.*
+
+---
+
+### 🔭 What I'm working on
+- Practical AI tools & LLM experiments you can actually use
+- Open-source AI projects, prompts, and workflows
+- Turning the latest AI papers / releases into simple, actionable demos
+
+### 🌱 Currently learning / building with
+`Python` · `LLMs (Claude / GPT / open models)` · `AI Agents` · `LangChain` · `Prompt Engineering`
+Previously: `JavaScript / TypeScript` · `Web Development`
+
+### 💬 Ask me about
+AI tools, AI agents, prompt tricks, and how to use AI in real work
+
+### 📫 Connect with me
+- X (Twitter): [@PlayAIwithRon](https://x.com/PlayAIwithRon) — 跟 Ron 玩 AI
+- GitHub: you're here!
+
+---
+⭐ *If a project helps you, a star means a lot.*
